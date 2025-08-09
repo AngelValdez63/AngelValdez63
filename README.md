@@ -25,6 +25,7 @@
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align= "left" width=400px height = 400px scr="https://media.tenor.com/EPMfJd3l8_wAAAAi/dio-chuggis.gif"/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis herramientas de trabajo...***
 
